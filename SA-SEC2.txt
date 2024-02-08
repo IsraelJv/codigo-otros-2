@@ -1,0 +1,5 @@
+Luis Leal
+Faltó implementar algunas funcionalidades del programa, pero es claro el código y se tienen buenas prácticas de programación.
+Se pasaron tips para poder mejorar.
+Calificación: 4 de 5
+
